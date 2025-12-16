@@ -57,6 +57,12 @@ figcaption, caption
     position: absolute
     content: url('../assets/curso/temas/tema1/bg-1.png')
 
+  &--2::after
+    top: 100px
+    left: -50px
+    position: absolute
+    content: url('../assets/curso/temas/tema1/bg-1.png')
+
 .bg-brown
   background-image: url("../assets/curso/intro/bg.png")
   background-size: cover
@@ -99,6 +105,10 @@ figcaption, caption
   
   td:first-child
     text-align: left
+
+  &--left
+    th, td
+      text-align: left
 
 .banner-text
   border-radius: 20px
