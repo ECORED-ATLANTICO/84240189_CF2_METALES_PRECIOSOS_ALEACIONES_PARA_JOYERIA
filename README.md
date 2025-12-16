@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+[https://ecored-atlantico.github.io/84240189_CF2_METALES_PRECIOSOS_ALEACIONES_PARA_JOYERIA/](https://ecored-atlantico.github.io/84240189_CF2_METALES_PRECIOSOS_ALEACIONES_PARA_JOYERIA/#/)
 
 #
 

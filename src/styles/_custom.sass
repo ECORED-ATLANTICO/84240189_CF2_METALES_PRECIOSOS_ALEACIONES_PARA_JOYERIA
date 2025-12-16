@@ -63,12 +63,24 @@ figcaption, caption
   background-position: center
   background-repeat: no-repeat
 
+.bg-ring
+  background-image: url("../assets/curso/temas/tema3/bg-orange.png")
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: 40% center
+  @media screen and (min-width: $bp-max-md)
+    background-position: center
+
 .bg-color-secundario-s5
   background-color: $color-secundario-s5
 .bg-color-secundario-s10
   background-color: $color-secundario-s10
+.bg-color-primario
+  background-color: $color-primario
 .bg-color-primario-p10
   background-color: $color-primario-p10
+.bg-color-primario-p20
+  background-color: $color-primario-p20
 
 .w-138
   max-width: 138px
@@ -205,8 +217,8 @@ figcaption, caption
 
 @media (min-width: 1200px) and (max-width:1400px) 
   .crd_hover_txt .crd_hover_txt--body p 
-      font-size: 14px
-      line-height: 18px
+    font-size: 14px
+    line-height: 18px
 
 .slider-wrapper
   position: relative
@@ -219,8 +231,8 @@ figcaption, caption
     left: -60px
     bottom: -20px
     right: -60px
-    width: calc( 100% + 168px  )
-    height: calc( 100% + 40px  )
+    width: calc( 100% + 168px )
+    height: calc( 100% + 40px )
 
   .slyder-a__btn--atrs, .slyder-a__btn--sigt
     background-color: $color-acento-botones
@@ -236,4 +248,3 @@ figcaption, caption
 
 .accesibilidad
   z-index: 3
-  

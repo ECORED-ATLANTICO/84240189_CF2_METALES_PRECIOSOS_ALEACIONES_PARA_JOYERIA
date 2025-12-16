@@ -36,7 +36,7 @@
         
       .d-none.d-lg-block.col-lg-1
         figure
-          img(src="@/assets/curso/temas/tema1/3.svg" alt="Imagen decorativa")
+          img(src="@/assets/curso/temas/tema1/3.svg" alt="Imagen decorativa" data-aos="fade-down")
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Tabla 1.
