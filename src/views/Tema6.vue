@@ -7,7 +7,6 @@
         span 6
       h1 Fundente
 
-
     img(data-aos="fade-up")(src="@/assets/curso/temas/tema6/1.png", alt="Imagen decorativa")
 
     .row.justify-content-center.mb-4.z-2
