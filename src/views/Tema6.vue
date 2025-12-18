@@ -36,7 +36,7 @@
     Separador
     .row.justify-content-center.z-2
       .col-xl-10
-        #t_6_1.titulo-segundo.color-acento-contenido
+        #t_6_2.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 6.2 Clases
 
     .row.justify-content-center.z-2
@@ -84,11 +84,11 @@
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Fundente en pasta o en polvo
             p.mb-4.mb-5.text-center Según la técnica: puede aplicarse en seco, disuelto o como suspensión, dependiendo del método de soldadura / fundición.
-            
+
     Separacion
     .row.justify-content-center.z-2
       .col-xl-10
-        #t_6_1.titulo-segundo.color-acento-contenido
+        #t_6_3.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 6.3 Preparación
 
     .row.justify-content-center.align-items-center.z-2
