@@ -83,11 +83,11 @@
       .col-xl-10
         #t_7_2.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 7.2 Técnicas
-          
+
     .row.justify-content-center.align-items-center.factores-slider.z-2.mb-5
       .col-10.col-sm-6.col-lg-3
         figure
-          img(src="@/assets/curso/temas/tema7/10.png" alt="Imagen decorativa" data-aos="fade-down")
+          img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema7/10.png" alt="Imagen decorativa" data-aos="fade-down")
       .col-lg-9.col-xl-7
         p.mb-0 Las técnicas de colado en joyería constituyen un conjunto de procedimientos fundamentales para transformar el metal fundido en piezas con formas definidas y precisión dimensional. Estas técnicas permiten reproducir diseños complejos, garantizar la calidad estructural del metal y optimizar la producción de elementos ornamentales. Su adecuada aplicación implica comprender los principios físicos del flujo del metal, las propiedades térmicas de los materiales involucrados y las condiciones operativas que influyen en el resultado final. Por ello, seleccionar la técnica de colado correcta es esencial para obtener piezas de alta calidad, con buen acabado superficial y mínima porosidad.
 
