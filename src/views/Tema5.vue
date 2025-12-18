@@ -310,10 +310,6 @@
               img(src="@/assets/curso/temas/tema5/14.png" alt="Imagen decorativa" data-aos="fade-down")
 
 
-
-
-
-
 </template>
 
 <script>
