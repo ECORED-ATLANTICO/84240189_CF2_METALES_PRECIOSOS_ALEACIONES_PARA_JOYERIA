@@ -121,6 +121,9 @@ figcaption, caption
 .w-85
   max-width: 85px
   margin: 0 auto
+.w-46
+  max-width: 46px
+  margin: 0 auto
 
 .z-2
   z-index: 2
@@ -362,3 +365,25 @@ figcaption, caption
 .bg-slider
   .slyder-f
     background-color: $white
+
+////////////AJUSTE TAMAÑO CONTERNEDOR IZQUIERO TABS-A//////////
+.tabs-a
+  @media (min-width: 1200px) 
+    .row
+      .col-xl-3 
+        flex: 0 0 auto
+        width: 20%
+      .col-xl-9
+        flex: 0 0 auto
+        width: 80%
+  @media (min-width: 992px) 
+    .row
+      .col-lg-4 
+        flex: 0 0 auto
+        width: 20%
+      .col-lg-8 
+        flex: 0 0 auto
+        width: 80%
+
+  &__content-item
+    background-color: #F7F6F6
