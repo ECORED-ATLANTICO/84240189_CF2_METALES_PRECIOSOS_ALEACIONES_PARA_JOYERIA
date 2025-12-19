@@ -333,7 +333,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CF02_84240189_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -349,21 +349,109 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
+      tema: 'Aleaciones',
+      referencia:
+        'Servicio Nacional de Aprendizaje SENA. (2025) <em>Las aleaciones y análisis en los metales precioso.</em>',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=jrdn75m9v08&t=2s',
+    },
+    {
+      tema: 'Fundición de metales',
+      referencia:
+        'Instituto tecnológico de Ensenada. (2024). <em>Normas y Criterios Para La Fundición De Materiales</em>',
+      tipo: 'Artículo',
+      link:
+        'https://www.ensenada.tecnm.mx/wp-content/uploads/2024/06/ORTO-MARTINEZ.pdf?utm_source=chatgpt.com',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Aleaciones',
+      significado:
+        'Producto homogéneo, obtenido por fusión, compuesto de dos o más elementos químicos, al menos uno de los cuales es un metal.',
+    },
+
+    {
+      termino: 'bórax',
+      significado:
+        'Sustancia blanca constituida por sal de ácido bórico y sodio, usada en farmacia y en la industria. Puede encontrarse en estado natural.',
+    },
+
+    {
+      termino: 'Combustión',
+      significado:
+        'Acción y efecto de arder o quemar. En química: reacción entre el oxígeno y una sustancia oxidables, acompañada de desprendimiento de energía, usualmente manifestada por calor y luz.',
+    },
+
+    {
+      termino: 'Corrosión',
+      significado:
+        'Desgaste paulatino de cuerpos metálicos por acción de agentes externos.',
+    },
+
+    {
+      termino: 'Filigrana',
+      significado:
+        'técnica de trabajar hilos finos de metales, usualmente metales preciosos; para crear diseños delicados y ornamentales.',
+    },
+
+    {
+      termino: 'Metales',
+      significado:
+        'preciosos Designa a ciertos metales que no se oxidan ni se alteran con facilidad, como el oro, la plata y el platino.',
+    },
+
+    {
+      termino: '<em>Pickling</em>',
+      significado:
+        'Es un tratamiento químico de superficies metálicas consistente en sumergir la pieza en una solución ácida (o con reactivos adecuados), para eliminar óxidos, escamas, impurezas superficiales, residuos de soldadura o calor, óxido de laminación, etc.',
+    },
+
+    {
+      termino: 'Resistencia',
+      significado:
+        'química Se refiere a la capacidad de un material para resistir la acción de sustancias químicas agresivas (ácidos, álcalis, sales, solventes, etc.) sin degradarse, oxidarse, corroerse o alterarse.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Tylecote, R. F. (1991). <em>Historia de la metalurgia</em>. Fondo de Cultura Económica.',
+      link:
+        'https://www.academia.edu/22186223/El_estudio_de_la_metalurgia_una_historia_de_frustraciones_y_aciertos',
+    },
+    {
+      referencia:
+        'Ortega Burgos, E. (s. f.). <em>Los metales preciosos y su marco normativo</em>.',
+      link:
+        'https://enriqueortegaburgos.com/los-metales-preciosos-y-su-marco-normativo/?utm_source',
+    },
+    {
+      referencia:
+        'Secretaría de Economía. (2020). <em>NOM-033/1-SE-2020: Artículos de oro, plata, platino y paladio — Parte 1: Información comercial y métodos de análisis</em>. Diario Oficial de la Federación.',
+      link: 'https://sidof.segob.gob.mx/notas/docFuente/5638887',
+    },
+    {
+      referencia:
+        'Heman. (2024). <em>Guía de herramientas y equipos esenciales para joyeros profesionales</em>. Sobling.',
+      link:
+        'https://sobling.jewelry/es/guia-de-herramientas-y-equipos-esenciales-para-profesionales-de-la-joyeria/',
+    },
+    {
+      referencia:
+        'JF-Joyeros. (2024). <em>Seguridad en la manipulación de metales en el taller de joyería</em>. JF Joyeros.',
+      link:
+        'https://jf-joyeros.com/seguridad-en-la-manipulacion-de-metales-en-el-taller-de-joyeria/',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social de Colombia; Ministerio de Trabajo de Colombia. (2012). <em>Ley 1562 de 2012: Por medio de la cual se modifica el Sistema de Riesgos Laborales y se dictan otras disposiciones</em>.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48365',
+    },
+    {
+      referencia:
+        'Gutiérrez, M., & López, A. (2015). <em>Técnicas de fundición y soldadura en orfebrería</em>. Revista de Joyería Artesanal, 8(2), 45-59.',
       link: '',
     },
   ],
@@ -372,14 +460,9 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
-        },
-        {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -387,9 +470,19 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Paola Andrea Bobadilla Gutiérrez',
+          cargo: 'Guionista línea de producción',
+          centro: 'Centro Agroindustrial - Regional Quindío',
+        },
+        {
+          nombre: 'Heydy Cristina González García',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jair Coll Gallardo',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -397,19 +490,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Andrés Felipe Herrera',
+          cargo: 'Diseñador <i>web</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Fabio Fonseca Arguelles',
+          cargo: 'Desarrollador <i>full stack junior</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -417,14 +510,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'María Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

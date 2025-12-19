@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
+      h1 Aleaciones
 
     .row.justify-content-center.align-items-center.mb-5.bg-color-secundario-s5.p-3.p-xl-0
       .col-sm-6.col-lg-4
@@ -28,7 +28,7 @@
 
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 1.2 aleaciones
+      .h2(data-aos="fade-right") 1.2 Aleaciones
 
     .row.justify-content-center.align-items-center.mb-5.z-2
       .col-lg-11
@@ -77,7 +77,7 @@
 
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 1.3 propiedades
+      .h2(data-aos="fade-right") 1.3 Propiedades
   
     img(data-aos="fade-up")(src="@/assets/curso/temas/tema1/4.png", alt="Imagen decorativa")
 

@@ -77,7 +77,7 @@
             p.mb-4 <strong>Ventajas</strong>: evita burbujas, mejora definición, aumenta calidad superficial.
           .col-md-4
             figure
-              img(src='@/assets/curso/temas/tema4/4.png', alt='Imagen de acompañamiento')
+              img(src='@/assets/curso/temas/tema4/26.png', alt='Imagen de acompañamiento')
 
       .py-4.py-md-5(titulo="Mezcladora y cámara de vacío para yeso refractario" :icono="require('@/assets/curso/temas/tema4/24.svg')")
         .row.align-items-center
