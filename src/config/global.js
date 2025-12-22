@@ -296,7 +296,7 @@ export default {
           },
           {
             numero: '11.2',
-            titulo: 'Riesgo 3',
+            titulo: 'Nivel de riesgo tipo 3',
             hash: 't_11_2',
           },
         ],
@@ -396,9 +396,9 @@ export default {
     },
 
     {
-      termino: 'Metales',
+      termino: 'Metales preciosos',
       significado:
-        'preciosos Designa a ciertos metales que no se oxidan ni se alteran con facilidad, como el oro, la plata y el platino.',
+        'Designa a ciertos metales que no se oxidan ni se alteran con facilidad, como el oro, la plata y el platino.',
     },
 
     {
@@ -408,9 +408,9 @@ export default {
     },
 
     {
-      termino: 'Resistencia',
+      termino: 'Resistencia química',
       significado:
-        'química Se refiere a la capacidad de un material para resistir la acción de sustancias químicas agresivas (ácidos, álcalis, sales, solventes, etc.) sin degradarse, oxidarse, corroerse o alterarse.',
+        'Se refiere a la capacidad de un material para resistir la acción de sustancias químicas agresivas (ácidos, álcalis, sales, solventes, etc.) sin degradarse, oxidarse, corroerse o alterarse.',
     },
   ],
   referencias: [

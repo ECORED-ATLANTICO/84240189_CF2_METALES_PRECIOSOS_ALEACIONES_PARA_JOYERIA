@@ -106,10 +106,10 @@
             td Estos valores definen la clase de ley mínima que la legislación permite para comercializar joyería.
             td               
               ul.checklist
-                li <strong>España</strong>: oro 375 / plata 925 / platino 850
-                li <strong>México</strong>: oro 375 / plata 800 / platino 850
-                li <strong>Ecuador</strong>: oro 750 / plata 800–950
-                li <strong>Colombia</strong>: se ajusta al estándar de mercado; oro 375 – 750 / plata 925 / platino 950.
+                li <strong>España</strong>: oro 375 / plata 925 / platino 850.
+                li <strong>México</strong>: oro 375 / plata 800 / platino 850.
+                li <strong>Ecuador</strong>: oro 750 / plata 800 - 950.
+                li <strong>Colombia</strong>: se ajusta al estándar de mercado; oro 375 - 750 / plata 925 / platino 950.
             td
               ul.checklist
                 li Estas leyes definen calidades oficiales de comercialización.
@@ -150,8 +150,10 @@
                 li Esta clase está muy relacionada con el diseño y la manufactura.
 
     Separador
-    #t_2_3.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 2.3 Determinación
+    .row.justify-content-center
+      .col-xl-10
+        #t_2_3.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 2.3 Determinación
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-8
@@ -169,9 +171,15 @@
             .col-lg-6
               h4.mb-4 Piedra de toque
               p <strong>Proceso</strong>
-              p.mb-0 • Se frota la joya sobre una piedra de toque (basalto o lidita).
-              p.mb-0 • Se aplica ácido de prueba según el metal.
-              p • La persistencia o disolución de la marca indica la aproximación de la ley.
+              p.mb-0.d-flex.gap-1
+                span •
+                span Se frota la joya sobre una piedra de toque (basalto o lidita).
+              p.mb-0.d-flex.gap-1
+                span •
+                span Se aplica ácido de prueba según el metal.
+              p.d-flex.gap-1
+                span •
+                span La persistencia o disolución de la marca indica la aproximación de la ley.
               p <strong>Descripción</strong>
               p.mb-0 • Ventajas: rápido, económico.
               p.mb-4.mb-lg-0 • Desventajas: aproximado, no exacto.
@@ -182,7 +190,9 @@
             .col-lg-6
               h4.mb-4 Ensayo al fuego (Copelación). Oro y Plata
               p <strong>Proceso</strong>
-              p.mb-0 • Se funde la muestra y se separa el metal precioso del plomo en una cúpula de ceniza.
+              p.mb-0.d-flex.gap-1
+                span •
+                span Se funde la muestra y se separa el metal precioso del plomo en una cúpula de ceniza.
               p • Permite medir la pureza con alta precisión.
               p <strong>Descripción</strong>
               p.mb-0 • Ventajas: método más exacto para oro / plata.
@@ -194,8 +204,12 @@
             .col-lg-6
               h4.mb-4 Fluorescencia de Rayos X (XRF)
               p <strong>Proceso</strong>
-              p.mb-0 • Analiza la composición química de la pieza sin dañarla.
-              p • Proporciona resultados rápidos y precisos.
+              p.mb-0.d-flex.gap-1
+                span •
+                span Analiza la composición química de la pieza sin dañarla.
+              p.d-flex.gap-1
+                span •
+                span Proporciona resultados rápidos y precisos.
               p <strong>Descripción</strong>
               p.mb-0 • Ventajas: no destructivo, ideal para joyería terminada.
               p.mb-4.mb-lg-0 • Desventajas: requiere equipo especializado.

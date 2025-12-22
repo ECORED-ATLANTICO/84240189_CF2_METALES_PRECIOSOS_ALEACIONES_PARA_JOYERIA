@@ -65,8 +65,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Tipos de Kilates
-        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema3/5-mob.svg', alt='La figura muestra cuatro ejemplos de KPIs aplicados a acciones de mercadeo.')
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src='@/assets/curso/temas/tema3/5.svg', alt='La figura muestra cuatro ejemplos de KPIs aplicados a acciones de mercadeo.')
+        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema3/5-mob.svg', alt='La figura muestra los cuatro tipos de kilates de oro que se presentan en joyería.')
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src='@/assets/curso/temas/tema3/5.svg', alt='La figura muestra los cuatro tipos de kilates de oro que se presentan en joyería.')
         figcaption <strong>Fuente:</strong> SENA, 2025
 
     

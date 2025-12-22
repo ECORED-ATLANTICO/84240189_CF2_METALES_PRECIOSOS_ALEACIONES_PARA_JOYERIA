@@ -25,7 +25,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema9/2.png" alt="Imagen decorativa" data-aos="fade-down")
       .col-lg-8
-        p El decapado es un proceso químico utilizado para eliminar los óxidos, manchas y residuos superficiales que se forman en los metales preciosos (oro, plata, cobre, bronce) después de ser sometidos a calentamiento, soldadura o recocido. El metal se sumerge en una solución ácida llamada pickle, cuya función es limpiar la superficie sin alterar la estructura interna del material. El resultado es un metal más limpio, brillante y apto para posteriores acabados como pulido, engaste o baños galvánicos.
+        p El decapado es un proceso químico utilizado para eliminar los óxidos, manchas y residuos superficiales que se forman en los metales preciosos (oro, plata, cobre, bronce) después de ser sometidos a calentamiento, soldadura o recocido. El metal se sumerge en una solución ácida llamada <em>pickle</em>, cuya función es limpiar la superficie sin alterar la estructura interna del material. El resultado es un metal más limpio, brillante y apto para posteriores acabados como pulido, engaste o baños galvánicos.
 
     Separador
     .row.justify-content-center.z-2
@@ -183,7 +183,7 @@
                 td Remover óxidos de cobre y latón.
                 td No recomendable para plata por riesgo de pitting.
               tr
-                td <strong>Soluciones comerciales "pickle"</strong>
+                td <strong>Soluciones comerciales <em>"pickle"</em></strong>
                 td Limpieza controlada para metales preciosos.
                 td Fáciles de usar, menos tóxicas.
 

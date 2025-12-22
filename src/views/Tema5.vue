@@ -169,7 +169,7 @@
     .row.justify-content-center.z-2
       .col-xl-10
         #t_5_4.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 5.4. Temperatura en metales para joyería
+          .h2(data-aos="fade-right") 5.4 Temperatura en metales para joyería
 
     .row.justify-content-center.z-2
       .col-xl-10
@@ -268,7 +268,7 @@
 
     Separador
     #t_5_5.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 5.5. Llamas oxidantes y reductoras
+      .h2(data-aos="fade-right") 5.5 Llamas oxidantes y reductoras
 
     p.mb-5 El control del tipo de llama es fundamental para garantizar soldaduras limpias, fundiciones estables y evitar daños en metales y aleaciones. Las llamas se clasifican según la relación entre el gas combustible y el oxígeno, lo cual determina su comportamiento químico.
 

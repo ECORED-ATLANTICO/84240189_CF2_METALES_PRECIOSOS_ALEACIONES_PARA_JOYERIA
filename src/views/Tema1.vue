@@ -60,7 +60,7 @@
             td(colspan="2") Se clasifican según la cantidad de metales o elementos presentes.
           tr
             td <strong>Según su función.</strong>
-            td Estructurales, decorativas, para fundición, para laminado
+            td Estructurales, decorativas, para fundición, para laminado.
             td(colspan="2") Dependen del propósito de uso en joyería y el comportamiento esperado.
           tr
             td <strong>Según comportamiento mecánico.</strong>
@@ -128,11 +128,11 @@
           span.etiqueta-title Propiedades mecánicas
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-sm-6.col-lg-4.col-xl-3
+      .col-10.col-sm-6.col-lg-3.col-xl-3
         figure(data-aos="fade-up")
           img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema1/8.png" alt="Imagen decorativa")
-      .col-lg-8.col-xl-7
-        TabsA.color-terciario
+      .col-lg-9.col-xl-7
+        TabsA.color-terciario.tabs-custom
           .tarjeta.bg-color-secundario-s10.p-4.h-100(titulo="Dureza")
             ul.checklist
               li.mb-3 Las aleaciones son más duras que los metales puros.
@@ -244,7 +244,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Tabla 2.
-      span metales secundarios utilizados en aleaciones.
+      span Metales secundarios utilizados en aleaciones.
     .tabla-a.color-secundario
       table
         caption <strong>Fuente:</strong> SENA, 2025.

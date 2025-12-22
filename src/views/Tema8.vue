@@ -87,8 +87,8 @@
                 img(src="@/assets/curso/temas/tema8/7.svg" alt="Imagen decorativa" data-aos="fade-down")  
 
     .titulo-sexto.color-acento-contenido.mb-4.z-2
-      h5 Tabla 11.
-      span Tipos de ácidos utilizados en el decapado
+      h5 Tabla 8.
+      span Características de los lingotes
     .tabla-a.color-secundario.tabla-a--left.z-2
       table
         caption <strong>Fuente:</strong> SENA, 2025.
@@ -145,8 +145,8 @@
         p.mb-0 Durante el proceso de fundición y solidificación del metal, los lingotes pueden presentar defectos que afectan su comportamiento mecánico y su calidad final. Estos problemas suelen originarse por fallas en la temperatura, mala preparación del molde, enfriamiento incorrecto o impurezas presentes en la aleación. Identificarlos y corregirlos es fundamental para evitar fracturas, pérdida de material y dificultades en procesos posteriores como laminado, trefilado o forja. Entre los defectos más comunes tenemos: 
 
     .titulo-sexto.color-acento-contenido.mb-4.z-2
-      h5 Tabla 8.
-      span Técnicas de colado
+      h5 Tabla 9.
+      span Defectos en los lingotes
     .tabla-a.color-secundario.tabla-a--left.z-2
       table
         caption <strong>Fuente:</strong> SENA, 2025.

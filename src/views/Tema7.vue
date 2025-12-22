@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema7/1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Las técnicas de colado en joyería constituyen un conjunto de procedimientos fundamentales para transformar el metal fundido en piezas con formas definidas y precisión dimensional. Estas técnicas permiten reproducir diseños complejos, garantizar la calidad estructural del metal y optimizar la producción de elementos ornamentales. Su adecuada aplicación implica comprender los principios físicos del flujo del metal, las propiedades térmicas de los materiales involucrados y las condiciones operativas que influyen en el resultado final. Por ello, seleccionar la técnica de colado correcta es esencial para obtener piezas de alta calidad, con buen acabado superficial y mínima porosidad.
+        p.mb-0 En la transformación de metales preciosos destinados a la joyería, uno de los momentos más determinantes es aquel en el que el material fundido pasa de un estado líquido controlado a adoptar la forma inicial que permitirá posteriormente el laminado, trefilado o conformado. Esta fase exige precisión técnica, dominio del calor, manejo adecuado de herramientas y una comprensión clara del comportamiento térmico de cada aleación. Es, además, el punto donde se consolidan muchas de las propiedades mecánicas y estéticas que determinarán la calidad final de la pieza, lo que convierte este proceso en un paso crítico dentro del flujo de manufactura en talleres joyeros y fundiciones artesanales o industriales.
 
     .fullwidth-bg.fullwidth-bg--1
     Separador
@@ -22,17 +22,17 @@
           .h2(data-aos="fade-right") 7.1 Concepto
 
     .row.justify-content-center.z-2.align-items-center.mb-5
-      .col-xl-9
+      .col-md-10.col-xl-9
         p Es el proceso mediante el cual el metal previamente fundido se vierte en un molde o canal de recepción con el fin de obtener un lingote, barra, placa o preforma que servirá como base para las operaciones posteriores de conformado en joyería. Durante la colada, el metal líquido fluye hacia el interior del molde bajo la acción de la gravedad o mediante presión asistida, solidificándose gradualmente hasta alcanzar una estructura compacta y homogénea.
-        p.mb-0 Generalidades de la colada del metal en joyería.
-      .col-xl-1
+        p.mb-4.mb-sm-0 Generalidades de la colada del metal en joyería.
+      .col-4.col-md-2.col-xl-1
         figure
           img(src="@/assets/curso/temas/tema7/2.svg" alt="Imagen decorativa" data-aos="fade-down")
       
     .row.justify-content-center.align-items-center.factores-slider.z-2.mb-5
       .col-10.col-sm-6.col-lg-3
         figure
-          img(src="@/assets/curso/temas/tema7/3.png" alt="Imagen decorativa" data-aos="fade-down")
+          img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema7/3.png" alt="Imagen decorativa" data-aos="fade-down")
       .col-lg-9.col-xl-8
         SlyderF(columnas="col-lg-6")
           .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
@@ -41,7 +41,7 @@
                 img.factores-slider__icon(src='@/assets/curso/temas/tema7/4.svg' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Control térmico
-            p.mb-4.mb-5.text-centerLa temperatura debe mantenerse ligeramente por encima del punto de fusión para garantizar fluidez sin provocar sobrecalentamiento, lo cual genera oxidación y fragilidad.
+            p.mb-4.mb-5.text-centerLa La temperatura debe mantenerse ligeramente por encima del punto de fusión para garantizar fluidez sin provocar sobrecalentamiento, lo cual genera oxidación y fragilidad.
           .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
               .col-7
@@ -92,7 +92,7 @@
         p.mb-0 Las técnicas de colado en joyería constituyen un conjunto de procedimientos fundamentales para transformar el metal fundido en piezas con formas definidas y precisión dimensional. Estas técnicas permiten reproducir diseños complejos, garantizar la calidad estructural del metal y optimizar la producción de elementos ornamentales. Su adecuada aplicación implica comprender los principios físicos del flujo del metal, las propiedades térmicas de los materiales involucrados y las condiciones operativas que influyen en el resultado final. Por ello, seleccionar la técnica de colado correcta es esencial para obtener piezas de alta calidad, con buen acabado superficial y mínima porosidad.
 
     .titulo-sexto.color-acento-contenido.mb-4.z-2
-      h5 Tabla 8.
+      h5 Tabla 7.
       span Técnicas de colado
     .tabla-a.color-secundario.tabla-a--left.z-2
       table

@@ -207,6 +207,7 @@ figcaption, caption
       left: -20px
 
 ////////////AJUSTE TAMAÑO CONTERNEDOR IZQUIERO TABS-A//////////
+
 .tabs-a
   &__tab
     background-color: #D2E0DF
@@ -219,22 +220,15 @@ figcaption, caption
       background-color: #466573
     .tabs-a__tab__text
       color: white
-  @media (min-width: 1200px)
-    .row
-      .col-xl-3
-        flex: 0 0 auto
-        width: 30%
-      .col-xl-9
-        flex: 0 0 auto
-        width: 69%
   @media (min-width: 992px)
     .row
       .col-lg-4
         flex: 0 0 auto
-        width: 40%
+        width: 40% !important
       .col-lg-8
         flex: 0 0 auto
-        width: 60%  
+        width: 60% !important
+        
 
 .crd_hover_txt 
   position: relative
@@ -390,3 +384,14 @@ figcaption, caption
 
   &__content-item
     background-color: #F7F6F6
+
+
+///////////////TABLAS/////////////////// 
+  
+.tabla-a
+  table td
+    text-align: start !important
+  th, td, table thead th, .tabla-a th 
+    border: 2px solid #B5B5B5
+  table
+    table-layout: auto

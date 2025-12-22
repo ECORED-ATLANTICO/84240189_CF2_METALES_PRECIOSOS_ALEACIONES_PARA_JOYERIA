@@ -142,8 +142,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 5.
           span Medidas de control obligatorias para Nivel de Riesgo Tipo 3
-        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema11/10-mob.svg', alt='La figura muestra cuatro ejemplos de KPIs aplicados a acciones de mercadeo.')
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src='@/assets/curso/temas/tema11/10.svg', alt='La figura muestra cuatro ejemplos de KPIs aplicados a acciones de mercadeo.')
+        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema11/10-mob.svg', alt='La figura 5 muestra cuales son las medidas de control requeridas para el nivel de riesgo Tipo 3.')
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src='@/assets/curso/temas/tema11/10.svg', alt='La figura 5 muestra cuales son las medidas de control requeridas para el nivel de riesgo Tipo 3.')
         figcaption <strong>Fuente:</strong> SENA, 2025
 
 

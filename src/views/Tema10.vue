@@ -48,7 +48,7 @@
         .bg-imagen.bg-imagen--4.p-4.px-3.rounded-4
           .row.justify-content-end.align-items-center
             .col-7.py-3
-              p.mb-0 Servir como base para el marcado (punzones / hallmarks). 
+              p.mb-0 Servir como base para el marcado (punzones / <em>hallmarks</em>). 
 
     .row.justify-content-center.z-2.align-items-center
       .d-none.d-lg-block.col-lg-1

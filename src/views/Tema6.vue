@@ -99,8 +99,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 4.
           span Proceso de Preparación de fundente
-        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema6/9-mob.svg', alt='La figura muestra cuatro ejemplos de KPIs aplicados a acciones de mercadeo.')
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src='@/assets/curso/temas/tema6/9.svg', alt='La figura muestra cuatro ejemplos de KPIs aplicados a acciones de mercadeo.')
+        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema6/9-mob.svg', alt='En la figura 4 se muestran las actividades que se deben llevar a cabo para la preparación del fundente.')
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src='@/assets/curso/temas/tema6/9.svg', alt='En la figura 4 se muestran las actividades que se deben llevar a cabo para la preparación del fundente.')
         figcaption <strong>Fuente:</strong> SENA, 2025
   
 
