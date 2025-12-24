@@ -153,14 +153,14 @@
             img(src='@/assets/curso/temas/tema4/15.png', alt='imagen de acompañamiento')
 
       .row(titulo="Herramientas de manipulación y corte").justify-content-around.align-items-center
-        .col-md-6.col-lg-5.mb-4.mb-md-0
+        .col-sm-10.col-lg-8.col-xl-6.mb-4.mb-lg-0
           p <strong>Alicates</strong>: para doblar, sujetar y cortar metal o alambre. Existen varios tipos, como los de punta de cadena o punta redonda.
           p <strong>Sierras de joyero</strong>: con hojas finas, permiten hacer cortes precisos y detallados en láminas de metal.
           p <strong>Limas y limatones</strong>: para suavizar bordes, desbastar y dar forma a superficies de metales y otros materiales.
           p <strong>Pinzas</strong>: ideales para manipular piezas pequeñas y delicadas sin dañarlas.
           p <strong>Martillos y mazos</strong>: se usan para forjar, repujar y dar forma a las piezas.
           p <strong>Punzones</strong>: para marcar, perforar y realizar detalles en el metal.
-        .col-md-3
+        .col-10.col-sm-6.col-lg-4.col-xl-3
           figure
             img(src='@/assets/curso/temas/tema4/16.png', alt='imagen de acompañamiento')
 
