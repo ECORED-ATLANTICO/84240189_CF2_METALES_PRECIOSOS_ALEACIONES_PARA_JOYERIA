@@ -69,7 +69,7 @@
       )
       .bloque-texto-g__texto.p-4
         p Estas pruebas permiten asegurar que las piezas cumplan con los estándares comerciales, garantizar la calidad en procesos de fabricación y evitar fraudes. En joyería, se usan tanto métodos tradicionales como técnicas instrumentales modernas, cada una con diferentes niveles de precisión y aplicaciones.
-        p.mb-0 Los tipos de pruebas de ley utilizadas en metales preciosos son los siguientes:
+        p.d-block.mb-0 Los tipos de pruebas de ley utilizadas en metales preciosos son los siguientes:
 
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Tabla 12.
@@ -189,7 +189,7 @@
           ul.checklist
             li Control de calidad en la fundición y afinado.
             li Certificación de pureza ante entidades internacionales (LBMA, COMEX).
-            li Garantizar que los lingotes cumplen estándares de 99.9 % o 99.99 % de pureza
+            li Garantizar que los lingotes cumplen estándares de 99.9 % o 99.99 % de pureza.
         .col-md-5
           figure
             img(src='@/assets/curso/temas/tema10/9.png', alt='imagen de acompañamiento')

@@ -20,7 +20,7 @@ export default {
       tema: 'Formulación y evaluación de aleaciones en los metales preciosos.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> identificar las generalidades del proceso de aleación de los metales preciosos, los insumos, equipos requeridos y la normatividad a la que aplica',
+        '<b> Objetivo:</b> identificar las generalidades del proceso de aleación de los metales preciosos, los insumos, equipos requeridos y la normatividad a la que aplica.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!.',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

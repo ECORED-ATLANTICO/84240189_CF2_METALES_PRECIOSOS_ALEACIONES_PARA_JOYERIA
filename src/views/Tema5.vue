@@ -44,7 +44,7 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema5/4.png" alt="Imagen decorativa" data-aos="fade-down")
       .col-lg-8
         p El tipo de técnica empleada depende del diseño de la pieza, el metal utilizado, la precisión requerida y el nivel tecnológico del taller. Cada técnica controla distintas variables como presión, gravedad, vacío o fuerza centrífuga para asegurar que el metal fluya adecuadamente dentro del molde y reproduzca fielmente los detalles de la pieza.
-        p.mb-0 Estas técnicas constituyen la base de procesos como la elaboración de lingotes, la fundición de aleaciones, la creación de piezas seriadas y la producción artesanal o industrial de joyería
+        p.mb-0 Estas técnicas constituyen la base de procesos como la elaboración de lingotes, la fundición de aleaciones, la creación de piezas seriadas y la producción artesanal o industrial de joyería.
 
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Tabla 4.
@@ -77,7 +77,7 @@
             td Se usa vacío para succionar o atraer el metal fundido hacia el molde.
             td Excelente precisión, mínimo atrapamiento de aire, alta calidad.
             td Equipos costosos; requiere mantenimiento técnico.
-            td Piezas complejas, joyería fina, micro fusión.
+            td Piezas complejas, joyería fina, microfusión.
           tr
             td <strong>Fundición directa (soplete).</strong>
             td El metal se funde y se solidifica de forma continua para obtener barras o lingotes uniformes.
@@ -290,7 +290,7 @@
           .col-sm-6.col-lg-5
             figure
               img(src="@/assets/curso/temas/tema5/13.png" alt="Imagen decorativa" data-aos="fade-down")
-      .tarjeta.p-4(titulo="Llama oxidante")
+      .tarjeta.p-4(titulo="Llama reductora")
         .row.justify-content-center.align-items-center
           .col-lg-7
             p Es una llama donde hay exceso de gas combustible y menor proporción de oxígeno. Tiene la capacidad de reducir óxidos en la superficie del metal.

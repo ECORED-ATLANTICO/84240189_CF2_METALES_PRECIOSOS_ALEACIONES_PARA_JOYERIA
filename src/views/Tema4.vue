@@ -82,7 +82,8 @@
       .py-4.py-md-5(titulo="Mezcladora y cámara de vacío para yeso refractario" :icono="require('@/assets/curso/temas/tema4/24.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-7.mb-4.mb-lg-0
-            h4.mb-4 Aparato que mezcla el yeso y elimina burbujas para crear moldes uniformes.
+            h4.mb-4 Mezcladora y cámara de vacío para yeso refractario
+            p.mb-4 Aparato que mezcla el yeso y elimina burbujas para crear moldes uniformes.
             p.mb-4 <strong>Rol</strong>: evita fallas en el molde, asegura detalles nítidos y repele el vapor atrapado.
           .col-10.col-sm-8.col-lg-4
             figure

@@ -24,7 +24,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Una aleación es la combinación homogénea de dos o más metales; o de un metal con un elemento no metálico, diseñada para modificar o mejorar las propiedades físicas y químicas del metal base. En joyería, las aleaciones permiten ajustar características como dureza, color, punto de fusión, resistencia al desgaste, maleabilidad y comportamiento durante la fundición y el conformado. Estas proporciones deben establecerse con criterios técnicos precisos y según los estándares de ley vigentes (por ejemplo, quilates y purezas permitidos). se entiende además como un proceso técnico fundamentado en la metalurgia práctica, orientado a satisfacer requerimientos estéticos y funcionales del cliente, garantizando a la vez la estabilidad del material y el cumplimiento normativo en la elaboración de lingotes y piezas finales.
+        p.mb-0 Una aleación es la combinación homogénea de dos o más metales; o de un metal con un elemento no metálico, diseñada para modificar o mejorar las propiedades físicas y químicas del metal base. En joyería, las aleaciones permiten ajustar características como dureza, color, punto de fusión, resistencia al desgaste, maleabilidad y comportamiento durante la fundición y el conformado. Estas proporciones deben establecerse con criterios técnicos precisos y según los estándares de ley vigentes (por ejemplo, quilates y purezas permitidos). Se entiende además como un proceso técnico fundamentado en la metalurgia práctica, orientado a satisfacer requerimientos estéticos y funcionales del cliente, garantizando a la vez la estabilidad del material y el cumplimiento normativo en la elaboración de lingotes y piezas finales.
 
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido
@@ -72,7 +72,7 @@
             td(colspan="2") Dependen de la cantidad de energía necesaria para fundirse.
           tr
             td <strong>Según normatividad.</strong>
-            td Normalizadas (leyes y quilates), No normalizadas.
+            td Normalizadas (leyes y quilates), no normalizadas.
             td(colspan="2") Determinadas por estándares legales de pureza o uso experimental.
 
     Separador
@@ -117,7 +117,7 @@
         .card-propiedad
           figure.card-propiedad__icono(data-aos="fade-up")
             img(src="@/assets/curso/temas/tema1/7.png" alt="Icono")
-          h4.card-propiedad__title Recuperación
+          h4.card-propiedad__title Conductividad térmica y eléctrica
           ul.checklist
             li Generalmente disminuye al alearse.
             li Importante para procesos como soldadura y control de calor en la fundición.

@@ -470,17 +470,12 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Paola Andrea Bobadilla Gutiérrez',
-          cargo: 'Guionista línea de producción',
-          centro: 'Centro Agroindustrial - Regional Quindío',
-        },
-        {
           nombre: 'Heydy Cristina González García',
           cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jair Coll Gallardo',
+          nombre: 'Jair Enrique Coll Gallardo',
           cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -490,7 +485,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Andrés Felipe Herrera',
+          nombre: 'Andrés Felipe Herrera Roldan',
           cargo: 'Diseñador <i>web</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -520,12 +515,12 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jonathan Adié Villafañe',
+          nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jairo Luis Valencia Ebratt',
+          nombre: 'Jonathan Adié Villafañe',
           cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },

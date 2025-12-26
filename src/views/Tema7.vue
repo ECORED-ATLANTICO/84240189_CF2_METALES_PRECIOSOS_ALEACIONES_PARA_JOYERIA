@@ -24,7 +24,7 @@
     .row.justify-content-center.z-2.align-items-center.mb-5
       .col-md-10.col-xl-9
         p Es el proceso mediante el cual el metal previamente fundido se vierte en un molde o canal de recepción con el fin de obtener un lingote, barra, placa o preforma que servirá como base para las operaciones posteriores de conformado en joyería. Durante la colada, el metal líquido fluye hacia el interior del molde bajo la acción de la gravedad o mediante presión asistida, solidificándose gradualmente hasta alcanzar una estructura compacta y homogénea.
-        p.mb-4.mb-sm-0 Generalidades de la colada del metal en joyería.
+        p.mb-4.mb-sm-0 <strong>Generalidades de la colada del metal en joyería</strong>.
       .col-4.col-md-2.col-xl-1
         figure
           img(src="@/assets/curso/temas/tema7/2.svg" alt="Imagen decorativa" data-aos="fade-down")

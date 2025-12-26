@@ -183,7 +183,7 @@
             td Impurezas, restos de óxidos o mal uso de fundente.
             td Filtrado del metal; limpieza previa; fundentes adecuados.
           tr
-            td <strong>Superficie ruosa o irregular.</strong>
+            td <strong>Superficie rugosa o irregular.</strong>
             td Textura no uniforme o adherencias.
             td Molde frío; vibración; mala preparación del molde.
             td Precalentar molde; verter con firmeza; revisar estado del molde.
