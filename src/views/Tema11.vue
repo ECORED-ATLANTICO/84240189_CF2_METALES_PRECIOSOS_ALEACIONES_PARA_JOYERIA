@@ -17,7 +17,7 @@
     .fullwidth-bg.fullwidth-bg--1
     Separador
     #t_11_1.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 11.1 Aplicabilidad
+      .h2(data-aos="fade-right") 11.1 Seguridad y salud en el trabajo
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-10.col-md-8.col-lg-3
